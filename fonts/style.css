@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans/OpenSans-Regular.eot');
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+        url('OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans/OpenSans-Regular.woff2') format('woff2'),
+        url('OpenSans/OpenSans-Regular.woff') format('woff'),
+        url('OpenSans/OpenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FK Screamer';
+    src: url('FKScreamer/FKScreamer-Medium.eot');
+    src: local('FK Screamer Medium'), local('FKScreamer-Medium'),
+        url('FKScreamer/FKScreamer-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FKScreamer/FKScreamer-Medium.woff2') format('woff2'),
+        url('FKScreamer/FKScreamer-Medium.woff') format('woff'),
+        url('FKScreamer/FKScreamer-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Good Sans';
+    src: url('GTFGoodSansBold/GoodSans-Bold.eot');
+    src: local('Good Sans Bold'), local('GoodSans-Bold'),
+        url('GTFGoodSansBold/GoodSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GTFGoodSansBold/GoodSans-Bold.woff2') format('woff2'),
+        url('GTFGoodSansBold/GoodSans-Bold.woff') format('woff'),
+        url('GTFGoodSansBold/GoodSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Good Sans';
+    src: url('GTFGoodSansRegular/GoodSans-Regular.eot');
+    src: local('Good Sans Regular'), local('GoodSans-Regular'),
+        url('GTFGoodSansRegular/GoodSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GTFGoodSansRegular/GoodSans-Regular.woff2') format('woff2'),
+        url('GTFGoodSansRegular/GoodSans-Regular.woff') format('woff'),
+        url('GTFGoodSansRegular/GoodSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

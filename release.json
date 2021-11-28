@@ -1,0 +1,1 @@
+'{ "version": '$(date +%s)', "git_hash": "'$(git rev-parse HEAD)'", "git_date": "'$(git --no-pager log -1 --format=%cd)'"}' 
